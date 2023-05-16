@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canconn</key>
+	<integer>1</integer>
+	<key>canconn_tip</key>
+	<string></string>
+	<key>defvpn</key>
+	<string>5</string>
+	<key>defvpns</key>
+	<string>5,6</string>
+	<key>fuzurl</key>
+	<string></string>
+	<key>guoqi</key>
+	<string>2</string>
+	<key>id</key>
+	<string>145</string>
+	<key>ikev</key>
+	<string>0</string>
+	<key>intro</key>
+	<string>VIP会员</string>
+	<key>iptags</key>
+	<string></string>
+	<key>ltp</key>
+	<string>0</string>
+	<key>name</key>
+	<string>日本节点ss</string>
+	<key>onlineindex</key>
+	<string>69</string>
+	<key>onlinetotal</key>
+	<string>100</string>
+	<key>openvpn</key>
+	<string>0</string>
+	<key>openvpnudp</key>
+	<string>0</string>
+	<key>pptp</key>
+	<string>0</string>
+	<key>radiusid</key>
+	<string>5</string>
+	<key>routes</key>
+	<string>2,1</string>
+	<key>socket</key>
+	<string>5047</string>
+	<key>ssname</key>
+	<string>shadowsocks</string>
+	<key>sspwd</key>
+	<string>passinfo123</string>
+	<key>sstype</key>
+	<string>aes-192-cfb</string>
+	<key>tags</key>
+	<string>2</string>
+	<key>type</key>
+	<string>0</string>
+	<key>vpnip</key>
+	<string>134.122.145.42</string>
+	<key>vpnyuanip</key>
+	<string>134.122.145.42</string>
+</dict>
+</plist>
